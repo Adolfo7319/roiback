@@ -1,0 +1,41 @@
+.searchBar {
+    box-sizing: border-box;
+    max-width: 800px;
+    justify-content: center;
+    width: 90%;
+    background: rgb(229 229 229);
+    margin: auto;
+    padding: 40px
+}
+
+.searchDiv {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
+.literalTotal {
+    text-align: end;
+    font-size: 16px;
+}
+
+.subtotal {
+    text-align: end;    
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.bottonDiv {
+    height: 30px;
+    background: #0075ff;
+    color: #ffffff;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    
+}
+
+.bottonDiv:disabled {
+    background-color: grey;
+}

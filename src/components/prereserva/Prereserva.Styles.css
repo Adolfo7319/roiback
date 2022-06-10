@@ -1,0 +1,46 @@
+.Prereserva {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.roomTitle {
+    font-size: large;
+    font-weight: bold;
+    background-color: dimgrey;
+    text-align: start;
+}
+
+.TituloReserva {
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.TituloDatos {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: start;
+}
+
+.reservaDetail {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 2px;
+    text-align: start;
+}
+
+.centerGrid {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.textStart {
+    text-align: start;
+}
+
+.gridReserva {
+    background-color: #fff;
+    border-radius: 0.5 rem;
+}

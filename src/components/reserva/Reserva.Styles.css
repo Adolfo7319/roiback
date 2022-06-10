@@ -1,0 +1,58 @@
+.divReserva {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.numReserva {
+    margin-top: 1em;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.resumeRoom {
+    margin-top: 1em;
+    font-size: large;
+    font-weight: bold;
+    text-align: start;
+}
+
+.TituloReserva {
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.TituloDatos {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: start;
+}
+
+.divDetail {
+    display: grid;
+    text-align: start;
+}
+
+.center {
+    width: 90%;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.textLeft {
+    text-align: start;
+}
+
+.textRight {
+    text-align: end;
+}
+
+.logoReserva {
+    margin-top: 1em;
+    position: relative;
+}
+
+.LogoOk {
+    width: 100px;
+}
